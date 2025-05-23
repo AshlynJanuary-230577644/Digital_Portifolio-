@@ -1,27 +1,36 @@
 ## Hi There, WELCOME TO MY DIGITAL PORTIFOLIO
 ## I'm Ashlyn January 
 ### CAREER COUNSELLING
-__Evidence__
+
 ![image](https://github.com/user-attachments/assets/de3ceca3-3cdb-41bf-b49c-1cca65d762f4)
-__Reflection__
+
+As part of my university's career development course, I recently participated in a career counselling session and completed an accompanying quiz designed to assess our understanding of career planning, goal-setting, and job market navigation. The goal was to apply the insights from the career counselling session to demonstrate my understanding of effective career planning strategies. The quiz required me to reflect on my personal goals, evaluate various career paths, and identify resources and actions that align with my ambitions. During the session, I actively engaged with the material by aswering questions and taking notes on key concepts. As a result of this preparation and engagement, I achieved a perfect score of 100% on the career counselling quiz. More importantly, I gained clarity about my career direction and a deeper understanding of how to strategically approach job searching and professional development. This experience has boosted my confidence in making informed career choices and utilizing university resources effectively.
 
 
 ### SKILLS AND INTERESTS
-__Evidence__
-![image](https://github.com/user-attachments/assets/4e0525ce-197f-4317-a1e1-089482d1fd8f)
-__Reflection__
 
+![image](https://github.com/user-attachments/assets/4e0525ce-197f-4317-a1e1-089482d1fd8f)
+
+As part of a university work readiness course, I participated in a module focused on identifying personal skills and interests. The goal of this module was to help students better understand how their natural strengths and passions could inform their career choices. The module ended with a quiz assessing our understanding of these concepts. My task was to accurately evaluate my own skills and interests using the tools and frameworks provided, and then apply this self-awareness to real-world career planning scenarios presented in the quiz. To prepare, I actively engaged with the course content by completing the scenario questions. Through this, I discovered that I am highly interested in areas involving creativity, problem-solving, and collaboration. My top skills include analytical thinking, communication, and adaptability. I took the time to reflect on how these skills have played out in my academic and extracurricular experiences, such as group projects, volunteering, and leadership roles. I also reviewed how certain career paths align with both my interests and skill set. I achieved a perfect score of 100% on the quiz, which validated my understanding and thoughtful reflection. More importantly, I now feel more confident in my ability to align my academic choices and future career path with who I am as a person. This process helped me narrow down my focus to careers in areas like consulting or digital marketing, where my strengths and interests can thrive. It also motivated me to seek out internships and skill-building opportunities in those fields.
 
 ### PERSONALITY ASSESSMENT
-__Evidence__
+
 ![image](https://github.com/user-attachments/assets/b666535f-ad7b-408a-925a-b481ce336775)
-__Reflection__
+
+As part of my university's work readiness curriculum, I completed a module on personality assessment, which aimed to help students understand how personality traits influence work style, career preferences, and interpersonal dynamics. At the end of the module, we took a quiz to evaluate our understanding of the concepts covered. My objective was to use insights from the personality assessment to reflect on how my personality aligns with potential career paths, teamwork dynamics, and work environments. I needed to apply this understanding accurately to the quiz questions. I took the personality assessment seriously, answering the questions with honesty and self-awareness.To reinforce this knowledge, I linked these traits to personal experiences in group work and leadership roles, where I often found myself acting as a thoughtful planner and supportive team member. My thorough preparation and self-reflection led to a perfect score of 100% on the quiz. More significantly, I walked away with a clearer understanding of how my personality influences my decision-making and preferred work style. This insight is now helping guide my career exploration. I’m more drawn to roles in advising, strategic planning, or content creation, where empathy and vision are valuable. It also helped me realize the importance of finding a work culture that aligns with my values and personality.
 
 ### CREATE CV
-__Evidence__
+
 ![image](https://github.com/user-attachments/assets/95fde3df-29ec-48d4-8098-a25572e6fe8f)
-__Reflection__
+
+As part of a career preparation course at university, I did a session focused on creating a professional CV. The session taught me how to effectively present our academic background, skills, and experiences to potential employers. At the end of the session, we were assessed through a quiz that tested our understanding of CV structure, content, and best practices. My task was to apply what I learned to create a clear, well-structured, and impactful CV that accurately represents my qualifications and goals. I carefully reviewed the workshop materials, focusing on key components such as tailoring the CV to specific job roles, using action verbs, quantifying achievements, and keeping the layout professional and concise. I revised my existing CV by aligning it with current industry standards—organizing sections logically, highlighting relevant coursework and projects, and emphasizing transferable skills gained through part-time work and volunteering. As a result of this focused effort, I scored 100% on the CV quiz, showing a full understanding of what makes a CV effective. More importantly, I now have a polished, job-ready CV that I feel confident submitting to internship opportunities and future employers. The process also taught me how to continually update and tailor my CV for different roles, which will be a valuable skill throughout my career journey.
 
 ### CV Submission
 
+__MY CV__ <br/>
+https://github.com/AshlynJanuary-230577644/CV.git
+(this repository is currently private due to privacy reassons if you do wish to access this repository please email: 230577644@mycput.ac.za
+
+<br/>
+As part of a university work readiness curriculum, I was required to submit a professionally written CV for feedback. This was a key step in preparing for internship applications and future job opportunities. The objective was to create and submit a CV that accurately reflects my academic background, skills, and relevant experiences. It needed to meet industry standards in formatting, clarity, and content, and showcase my suitability for roles I intend to apply for. I started by reviewing the CV guidelines provided during our career workshop. I analyzed strong sample CVs and sought advice from the university student counsel. I then tailored my CV to highlight key academic achievements, leadership roles, and part-time work experience. Before submitting, I proofread the document carefully and asked a peer to review it for clarity and accuracy. Submitting my CV was a valuable learning experience. I received constructive feedback from people who deals with CVs, which helped me refine the document further. It confirmed that I had a strong foundation but needed to better tailor the CV for specific roles. The process gave me greater confidence in presenting myself professionally, and I now feel more prepared to apply for internships with a strong and targeted application.
 
